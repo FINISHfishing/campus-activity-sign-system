@@ -19,7 +19,7 @@
 - `docs/` - 项目管理文档
   - `02-wbs.md` - 三级 WBS 分解
   - `03-schedule.md` - 简化进度计划
-  - `03-config-management.md` - 配置管理方案
+  - `04-config-plan.md` - 配置管理方案
   - `conflict.md` - 冲突示例及解决结果
   - `05-summary-report.md` - 实验总结报告
 - `src/` - 源代码（本次实验未使用）
