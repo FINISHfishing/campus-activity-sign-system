@@ -4,10 +4,10 @@
 |------|----------|------|----------|--------|------------|------|
 | A1 | 项目启动说明（含边界、分工） | 1h | 无 | qiumengnan | 项目启动文档 | 已完成 |
 | A2 | 完成三级 WBS 分解 | 1.5h | A1 | zhaojiameizhi | WBS 文档 | 已完成 |
-| A3 | 提取关键活动并制定进度计划 | 1h | A2 | zhaojiameizhi | 简化进度计划文档 | 进行中 |
-| A4 | 建立分支策略并编写配置管理文档 | 1.5h | A1 | mayilasaierhazi | 配置管理文档 | 待开始 |
-| A5 | 制造并解决一次冲突 | 1h | A4 | qiumengnan, zhaojiameizhi, ganquan | 冲突解决记录 | 待开始 |
-| A6 | 完成总结报告并合并到 main | 2h | A2, A3, A4, A5 | 全体成员 | 总结报告 | 待开始 |
+| A3 | 提取关键活动并制定进度计划 | 1h | A2 | zhaojiameizhi | 简化进度计划文档 | 已完成 |
+| A4 | 建立分支策略并编写配置管理文档 | 1.5h | A1 | mayilasaierhazi | 配置管理文档 | 已完成 |
+| A5 | 制造并解决一次冲突 | 1h | A4 | qiumengnan, zhaojiameizhi, ganquan | 冲突解决记录 | 已完成 |
+| A6 | 完成总结报告并合并到 main | 2h | A2, A3, A4, A5 | 全体成员 | 总结报告 | 进行中 |
 
 ## 说明
 
